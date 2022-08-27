@@ -1,0 +1,69 @@
+{
+  "name": "facebook-backend",
+  "version": "1.0.0",
+  "description": "Facebook social media backend.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iftekhar-Hossen/FacebookClone.git"
+  },
+  "keywords": [
+    "facebook",
+    "facebook",
+    "clone",
+    "facebook",
+    "master",
+    "copy",
+    "fb",
+    "node",
+    "js",
+    "clone",
+    "facebook",
+    "clone",
+    "node",
+    "js",
+    "and",
+    "react",
+    "js",
+    "facebook",
+    "clone",
+    "react",
+    "js",
+    "facebook",
+    "react",
+    "facebook",
+    "node",
+    "facebook",
+    "mern",
+    "facebook",
+    "node",
+    "express",
+    "react",
+    "mongdb",
+    "facebook",
+    "mongodb",
+    "fb",
+    "clone",
+    "with",
+    "mongodb"
+  ],
+  "author": "Iftekhar Hossen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iftekhar-Hossen/FacebookClone/issues"
+  },
+  "homepage": "https://github.com/Iftekhar-Hossen/FacebookClone#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongodb": "^4.9.0",
+    "mongoose": "^6.5.2",
+    "nodemon": "^2.0.19"
+  }
+}
