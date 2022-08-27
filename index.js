@@ -29,6 +29,9 @@ app.use(express.json());
  */
 readdirSync("./routes").map((f) => app.use("/", require("./routes/" + f)));
 
+app.get("/", (req, res) => {
+    res.send("hi");
+});
 /*
  * mongodb connection *
  */
